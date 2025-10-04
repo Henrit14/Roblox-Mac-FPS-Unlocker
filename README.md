@@ -5,4 +5,4 @@
 Install: // Run it in Terminal
 
 ```bash
-curl -s https://raw.githubusercontent.com/Eazvy/Roblox-Mac-FPS-Unlocker/refs/heads/main/fps_unlocker.sh | bash
+curl -s https://raw.githubusercontent.com/Henrit14/Roblox-Mac-FPS-Unlocker/refs/heads/main/fps_unlocker.sh | bash
